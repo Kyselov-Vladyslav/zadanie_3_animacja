@@ -3,7 +3,7 @@
     transform: translateX(300px);
   }
   50% {
-    transform: translateY(300px) translateX(300px);
+    transform: translate(300px, 300px);
   }
   75% {
     transform: translateY(300px);
